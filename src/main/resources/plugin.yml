@@ -1,0 +1,9 @@
+name: SoKickName
+main: so.max1soft.kickname.Main
+version: 1.0
+author: "SoMax1soft"
+description: "Волтер убери свой член"
+commands:
+  sokickname:
+    description: релодсучк
+    usage: /sokickname reload
